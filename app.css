@@ -1,0 +1,23 @@
+.headerpicture {
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+    margin-left: 40px;
+
+    
+}
+
+
+.headerbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headertext {
+    display: flex;
+    background-color: red;
+    justify-content: right;
+    width: 150px;
+    justify-content: space-between;
+    margin-right: 40px;
+}
